@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-scrapeunblocker-tripadvisor",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "n8n community node for the TripAdvisor Scraper Apify Actor by ScrapeUnblocker: TripAdvisor restaurants, hotels and attractions with rating, review count, price range, address and coordinates as JSON",
 	"license": "MIT",
 	"homepage": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-tripadvisor#readme",
